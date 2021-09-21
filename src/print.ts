@@ -1,5 +1,5 @@
 import type {WriteStream} from 'tty';
-import {Lens} from 'apochromat';
+import type {Lens} from 'apochromat';
 import stringWidth from 'string-width';
 
 export function print(
