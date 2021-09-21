@@ -1,6 +1,6 @@
 {
   "name": "@apochromat/print",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Dynamic output for interactive command line apps.",
   "bugs": {
     "url": "https://github.com/clebert/apochromat-print/issues"
