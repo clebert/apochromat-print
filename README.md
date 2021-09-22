@@ -11,7 +11,7 @@
 [license-link]:
   https://github.com/clebert/apochromat-print/blob/master/LICENSE.md
 
-Dynamic output for interactive command line apps.
+Dynamic text output for interactive command line apps.
 
 ## Installation
 
